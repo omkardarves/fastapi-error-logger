@@ -9,4 +9,8 @@ setup(
     ],
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
+    project_urls={
+        'Source': 'https://github.com/omkardarves/fastapi-error-logger',
+    },
+    license='MIT',
 )
