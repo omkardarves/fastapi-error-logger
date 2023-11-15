@@ -22,7 +22,7 @@ Make sure to customize the error handling in your FastAPI application according 
 
 # Usage/Example
 
-```bash
+```python
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
 from fastapi_error_logger.api_logger import log_api_error
